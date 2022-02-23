@@ -30,6 +30,7 @@ R"E(
 		"byzantiumForkBlock": "QIP7_STARTING_BLOCK",
 		"constantinopleForkBlock": "QIP7_STARTING_BLOCK",
         "constantinopleFixForkBlock": "QIP7_STARTING_BLOCK",
+		"qip6ForkBlock": "QIP6_STARTING_BLOCK",
 		"networkID" : "0x01",
 		"chainID": "0x01",
 		"maximumExtraDataSize": "0x20",
